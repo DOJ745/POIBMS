@@ -1,0 +1,7 @@
+:root {
+    --ion-color-newColor: #c05261;
+}
+
+.ion-color-newColor {
+    --ion-color-base: var(--ion-color-newColor);
+}
