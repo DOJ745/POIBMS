@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "H:\\LabsFolder\\_4_1\\POIBMS\\LB6\\LB6.csproj": {}
+    "D:\\LabsFolder\\_4_1\\POIBMS\\LB6\\LB6.csproj": {}
   },
   "projects": {
-    "H:\\LabsFolder\\_4_1\\POIBMS\\LB6\\LB6.csproj": {
+    "D:\\LabsFolder\\_4_1\\POIBMS\\LB6\\LB6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\LabsFolder\\_4_1\\POIBMS\\LB6\\LB6.csproj",
+        "projectUniqueName": "D:\\LabsFolder\\_4_1\\POIBMS\\LB6\\LB6.csproj",
         "projectName": "LB6",
-        "projectPath": "H:\\LabsFolder\\_4_1\\POIBMS\\LB6\\LB6.csproj",
-        "packagesPath": "C:\\Users\\DOJ\\.nuget\\packages\\",
-        "outputPath": "H:\\LabsFolder\\_4_1\\POIBMS\\LB6\\obj\\",
+        "projectPath": "D:\\LabsFolder\\_4_1\\POIBMS\\LB6\\LB6.csproj",
+        "packagesPath": "C:\\Users\\Andrei\\.nuget\\packages\\",
+        "outputPath": "D:\\LabsFolder\\_4_1\\POIBMS\\LB6\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\DOJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Andrei\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -43,6 +41,10 @@
             "Xamarin.AndroidX.AppCompat": {
               "target": "Package",
               "version": "[1.2.0.5, )"
+            },
+            "Xamarin.AndroidX.Fragment": {
+              "target": "Package",
+              "version": "[1.3.6.4, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",
